@@ -53,7 +53,7 @@ Effective inventory and sales management are critical in the retail sector. This
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vendor-performance-analysis/
+vendor_performance_analysis/
 │
 ├── README.md
 ├── .gitignore
@@ -158,5 +158,5 @@ python scripts/get_vendor_summary.py
 **Abhishek Ballal**  
 Aspiring Data Analyst  
 📧 Email: ballalabhishek5@gmail.com
-🔗 [LinkedIn]()  
+🔗 [LinkedIn](www.linkedin.com/in/abhishek-ballal05)  
 
